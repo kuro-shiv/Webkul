@@ -144,7 +144,7 @@ $posts = $pdo->query("SELECT posts.*, users.full_name, users.profile_pic
         <h3><?php echo htmlspecialchars($user["full_name"]); ?></h3>
         <p><?php echo htmlspecialchars($user["email"]); ?></p>
         <p><a href="profile_view.php?id=<?php echo $user["id"]; ?>">Show Profile</a></p>
-        <p><a href="profile.php?logout=1">Logout</a></p>
+        <p><a href="login.php?logout=1">Logout</a></p>
     </div>
 
     <!-- Main Content -->
