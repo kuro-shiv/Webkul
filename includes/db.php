@@ -1,9 +1,8 @@
 <?php
-// Database connection file
-$host = "localhost";
-$user = "root";     // change if needed
-$pass = "";         // change if needed
-$dbname = "social_network_db";
+$host = "localhost"; // ✅ correct for XAMPP
+$user = "root";      // ✅ default MySQL username
+$pass = "";          // ✅ default MySQL password (empty in XAMPP)
+$dbname = "social_network_db"; // ✅ must match DB in phpMyAdmin
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $user, $pass);
