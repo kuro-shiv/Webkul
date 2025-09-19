@@ -28,6 +28,7 @@ It allows users to create accounts, log in, upload profile pictures, create post
 
 ## 🌐 Project Link
 http://localhost/social_network/signup.php for local
+
 =======
 # 🧑‍🤝‍🧑 Social Network (PHP + MySQL)
 
@@ -86,8 +87,6 @@ Local: [http://localhost/social_network/signup.php](http://localhost/social_netw
 
 4. Open **phpMyAdmin** at [http://localhost/phpmyadmin](http://localhost/phpmyadmin).  
 5. Create a new database:  
-
-```sql
 CREATE DATABASE social_network;
 6. Import the provided SQL file (social_network.sql) into this database.
 
