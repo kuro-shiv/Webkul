@@ -63,10 +63,11 @@ CREATE DATABASE social_network;
 ---
 
 ## 👨‍💻 Author
-**[Shivam Kumar Dubey]([kuro-shiv](https://github.com/kuro-shiv))**  
+**[Shivam Kumar Dubey](https://github.com/kuro-shiv)**  
 
 ---
 Made for **Webkul Project Assessment**
+
 
 
 
