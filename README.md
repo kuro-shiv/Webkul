@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧑‍🤝‍🧑 Social Network (PHP + MySQL)
 
 A simple **social networking web application** built using **PHP, MySQL, and XAMPP**.  
@@ -98,3 +98,4 @@ CREATE DATABASE social_network;
 **Shivam Kumar Dubey (kuro-shiv)**  
 Made for **Webkul Project Assessment**
 >>>>>>> b817466 (readme added)
+
